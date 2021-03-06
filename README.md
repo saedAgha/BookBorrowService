@@ -49,7 +49,7 @@ xunit integration tests applied to cover e2e flows
 
 # Notes
 -  entites fields I would prefer to encapsulate with private setters
-   But for the sake of this homework not to implement to keep simplicity
+   But for the sake of this homework i choosed not to implement to keep simplicity
    (In bigger development it should be encapsulated more offcourse)
   
  - in entites diagram you may notice that library contain
