@@ -27,9 +27,31 @@ Possible edge cases :
 -	Check if book id ,customer id , librarian id exist in DB 
 -	Check if customer indeed borrowed the book in the past and didn’t returned it 
 
+
+
 # Entities
 ![image](https://user-images.githubusercontent.com/18490274/110212879-2a0b8100-7ea6-11eb-9bee-d73cec232f46.png)
 
 # Class UML 
+![image](https://user-images.githubusercontent.com/18490274/110213679-b4a1af80-7ea9-11eb-840f-272e32abba89.png)
+
+
+# Swagger
+![image](https://user-images.githubusercontent.com/18490274/110213748-05b1a380-7eaa-11eb-8dbc-33b419678de5.png)
+![image](https://user-images.githubusercontent.com/18490274/110213783-2bd74380-7eaa-11eb-93fd-3ab65261af5a.png)
+
+# Unit tests
+Xunit unit test project created to verify unit cases for services,validator and repositiory
+
+# Integration Test 
+xunit integration tests applied to cover e2e flows
+
+
+
+
+ 
+
+
+
 
 
