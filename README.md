@@ -37,8 +37,9 @@ Possible edge cases :
 
 
 # Swagger
-![image](https://user-images.githubusercontent.com/18490274/110213748-05b1a380-7eaa-11eb-8dbc-33b419678de5.png)
-![image](https://user-images.githubusercontent.com/18490274/110213783-2bd74380-7eaa-11eb-93fd-3ab65261af5a.png)
+![image](https://user-images.githubusercontent.com/18490274/110214767-c6d21c80-7eae-11eb-91bb-9a66a79cca58.png)
+![image](https://user-images.githubusercontent.com/18490274/110214780-dea9a080-7eae-11eb-85f8-0e6cb42f41a3.png)
+
 
 # Unit tests
 Xunit unit test project created to verify unit cases for services,validator and repositiory
