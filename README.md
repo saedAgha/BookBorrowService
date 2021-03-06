@@ -47,12 +47,13 @@ Xunit unit test project created to verify unit cases for services,validator and 
 # Integration Test 
 xunit integration tests applied to cover e2e flows
 
-
-
-
- 
-
-
-
-
-
+# Notes
+-  entites fields I would prefer to encapsulate with private setters
+   But for the sake of this homework I focused on DI and 
+   Product design
+ - in entites diagram you may notice that library contain
+   Users and Books, in code i intentionally did added collection
+   For both Users and Books because it wasn't a demand on requirements
+   But i kept to be clear.
+-  Library was defined as being single one , and for system requirements it
+   was clear there's only one  , 
